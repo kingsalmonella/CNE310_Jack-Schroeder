@@ -10,5 +10,4 @@ def lone_sum(a, b, c):
     else:
         return a+b+c
 
-print(lone_sum(4, 4, 4))
 
